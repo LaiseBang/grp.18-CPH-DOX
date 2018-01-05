@@ -1,0 +1,56 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+
+body {}
+
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3.2em;
+    font-weight: 500;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.8em;
+    font-weight: 500;
+    text-align: center;
+}
+
+p {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+li {
+    font-family: 'Muli', sans-serif;
+    font-size: 0.9em;
+    line-height: 5px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+video {
+    display: block;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Produkt .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
